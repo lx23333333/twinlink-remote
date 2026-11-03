@@ -1,0 +1,10 @@
+dist/
+tests/output/
+*.user
+.env
+.env.*
+*.pfx
+*.p12
+*.key
+*.tlbridge
+.vs/
